@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452828059469",
+    "project_id": "codepath-final-croject",
+    "storage_bucket": "codepath-final-croject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452828059469:android:f569ef8c84dafbe8f64904",
+        "android_client_info": {
+          "package_name": "com.example.codepathfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452828059469-2f8enpftsvo6a7dnp7ugf711oqesf90r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxkQnchEDaEiU6pjP8-KNEdv94XNzn6Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452828059469-2f8enpftsvo6a7dnp7ugf711oqesf90r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
